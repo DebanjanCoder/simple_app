@@ -32,3 +32,16 @@ git remote add origin https://github.com/DebanjanCoder/simple_app.git
 git branch -M main
 
 git push -u origin main
+
+
+tox command
+
+tox
+
+for rebuilding - tox -r
+
+pytest command
+pytest -v
+
+setup commands
+pip install -e .
